@@ -60,7 +60,7 @@ export default function ProductPage({ params }) {
   };
 
   const handleWhatsAppOrder = () => {
-    const phoneNumber = "919999999999"; 
+    const phoneNumber = "917409475219"; 
     const finalPrice = calculatePrice();
     const message = `Hello Saraswat Graphics! I would like to order:
     
